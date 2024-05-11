@@ -1,4 +1,4 @@
-# Criando um chat com o Google AI Studio na Imersão Alura
+# Criando um chatbot com o Google AI Studio na Imersão Alura
 
 - Instalando o SDK do Google
 - Listar os modelos disponíveis
