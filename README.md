@@ -1,4 +1,4 @@
-# Criando um chatbot com a Gemini API na Imersão Alura
+# Criando um chatbot com a Gemini API da Google na Imersão Alura
 
 - Instalando o SDK do Google
 - Listar os modelos disponíveis
